@@ -1,22 +1,6 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/_IojtdoU)
-# StackIt Hiring Assignment
-
-### Welcome to StackIt's hiring assignment! 🚀
-
-Problem Statement: Make a CSV Importer for Google Sheets that lets users drag and drop CSV files onto the Google Sheet. The moment they drop the CSV file, allow them to select which columns to import🗂️.
-
-## Developer's Section
 
 Deployed Link: https://sathiyags-datafilterhub.netlify.app/ <br />
 Demo Video Link: https://drive.google.com/file/d/1fv8ymjhuLxB_BPxLxc9oqunGmmBqn4LP/view?usp=drive_link
-
-## Evaluation:
-
-☑️My code's working just fine! 🥳 <br />
-☑️I have recorded a video showing it working and embedded it in the README ▶️ <br />
-☑️I have tested all the normal working cases 😎<br />
-☑️I have even solved some edge cases (brownie points) 💪<br />
-☑️I added my very planned-out approach to the problem at the end of this README 📜<br />
 
 ## Framework:
 
