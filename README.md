@@ -1,6 +1,5 @@
 
 Deployed Link: https://sathiyags-datafilterhub.netlify.app/ <br />
-Demo Video Link: https://drive.google.com/file/d/1fv8ymjhuLxB_BPxLxc9oqunGmmBqn4LP/view?usp=drive_link
 
 ## Framework:
 
